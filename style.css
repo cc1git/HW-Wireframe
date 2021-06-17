@@ -1,0 +1,91 @@
+
+body {
+    margin: 50px;
+    padding: 20px;
+    background-color: gray;
+}
+
+#header {
+    background-color: crimson;
+    height: 100px;
+    font-size: 60px;
+    color: darkblue;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+nav {
+    background-color: aqua;
+    height: 150;
+    font-size: 60px;
+    color: #000;
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+section {
+    background-color: blueviolet;
+    height: 500px;
+    font-size: 30px;
+    text-align: center;
+    padding: 150px;
+    margin-right: 800px;
+    margin-top: 10px;
+    float: left;
+    width: 495px;
+}
+
+#article {
+    background-color: burlywood;
+    height: 60px;
+    font-size: 20px;
+    text-align: center;
+    padding: 100px;
+    margin-top: 10px;
+    margin-right: 5px;
+    
+}
+
+#inner-of-article-first-div {
+    position: fixed;
+    background-color: darkblue;
+    padding: 100;
+    margin-top: 10px;
+    width: 400px;
+}
+
+#inner-of-article-second-div {
+    padding: 200;
+    text-align: center;
+    background-color: darkmagenta;
+    width: 350px;
+    height: 50px;
+    margin-top: 0px;
+
+}
+
+h4 {
+    background-color: blue;
+    height: 500;
+    font-size: 30px;
+    text-align: center;
+    padding: 150px;
+    margin-left: 800px;
+    margin-top: -365px;
+    float: right;
+    width: 425px;  
+    margin-bottom: 150px; 
+    align-self: auto;
+}
+
+h5 {
+    width: 1520px;
+    background-color: brown;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
