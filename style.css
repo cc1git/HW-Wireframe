@@ -12,6 +12,7 @@ body {
     color: darkblue;
     margin-bottom: 10px;
     text-align: center;
+    width:100% ;
 }
 
 
@@ -23,69 +24,72 @@ nav {
     text-align: center;
     margin-bottom: 0px;
     padding: 0px;
+    width: 100%;
 }
 
 section {
     background-color: blueviolet;
-    height: 500px;
-    font-size: 30px;
+    height: 150px;
+    font-size: 20px;
     text-align: center;
-    padding: 150px;
+    padding: 80px;
     margin-right: 800px;
     margin-top: 10px;
+    margin-bottom: 10px;
     float: left;
-    width: 495px;
+    width: 35%;
 }
 
 #article {
     background-color: burlywood;
-    height: 60px;
     font-size: 20px;
     text-align: center;
-    padding: 100px;
     margin-top: 10px;
     margin-right: 5px;
+    height: 180px;
     
 }
 
 #inner-of-article-first-div {
-    position: fixed;
+    
     background-color: darkblue;
-    padding: 100;
+    padding: 200;
     margin-top: 10px;
-    width: 400px;
+    text-align: center;
+    margin-bottom: 20px;
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
 }
 
 #inner-of-article-second-div {
-    padding: 200;
+
     text-align: center;
     background-color: darkmagenta;
-    width: 350px;
     height: 50px;
     margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
 
 }
 
-h4 {
+aside {
     background-color: blue;
-    height: 500;
-    font-size: 30px;
+    margin-left: 10px;
+    font-size: 20px;
     text-align: center;
-    padding: 150px;
-    margin-left: 800px;
-    margin-top: -365px;
+    margin-top: -320px;
+    width: 52%;
     float: right;
-    width: 425px;  
-    margin-bottom: 150px; 
-    align-self: auto;
+    height: 310px;
+    
 }
 
-h5 {
-    width: 1520px;
+footer {
+    clear: both;
     background-color: brown;
-    height: 100px;
+    height: 70px;
     text-align: center;
-    margin-bottom: 50px;
-    margin-top: 50px;
     
 }
