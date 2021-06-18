@@ -8,23 +8,25 @@ body {
 #header {
     background-color: crimson;
     height: 100px;
-    font-size: 60px;
+    font-size: 40px;
     color: darkblue;
     margin-bottom: 10px;
     text-align: center;
     width:100% ;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
 nav {
     background-color: aqua;
     height: 150;
-    font-size: 60px;
+    font-size: 40px;
     color: #000;
     text-align: center;
     margin-bottom: 0px;
     padding: 0px;
     width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 section {
@@ -88,7 +90,7 @@ aside {
 
 footer {
     clear: both;
-    background-color: brown;
+    background-color: green;
     height: 70px;
     text-align: center;
     
